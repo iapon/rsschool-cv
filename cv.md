@@ -29,6 +29,7 @@ Hi! I'm a software engineer and co-founder of Diggernaut LLC. Mostly working as 
     Software Engineer: 05/2016 - present
 * Workrewards:
     Lead Software Engineer: 11\2017 - present
+    
 ## Education:
 *coming soon*
 
